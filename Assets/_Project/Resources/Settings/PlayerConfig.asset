@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c21a569ab782b4848aab124b1d86894d, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerConfig
+  <PlayerPrefab>k__BackingField: {fileID: 3332635320806875722, guid: 5c87696071d8ea44f96904e492a15d77, type: 3}
+  <MoveSpeed>k__BackingField: 9
+  <RotationSpeed>k__BackingField: 900
+  <MaxHealth>k__BackingField: 100
+  <BulletPrefab>k__BackingField: {fileID: 8947836082651186679, guid: 9b67b4bff69a0a7498020fa1a32738e3, type: 3}
+  <ShootKeyCode>k__BackingField: 32
+  <BulletSpeed>k__BackingField: 20
+  <BulletDamage>k__BackingField: 5
